@@ -5,6 +5,8 @@ As the name suggests, this has EXTREMELY limited features when compared to norma
 
 And it is actually an assignment from a bachelor-level HCI course ;) 
 
+~~(source code will be available later)~~
+
 # Features
 This program allows user to perform actions by switching to 3 different modes:
 1. Default Mode
@@ -16,4 +18,14 @@ This program allows user to perform actions by switching to 3 different modes:
 
 (And sadly these are the only functions can be done by this program :( )
 
-# Basic controls
+# Basic Controls
+1. Key controls for mode switching
+   All done by simple press and release
+   - 'f' key: switch to Freehand Drawing Mode
+   - 's' key: switch to Region Selection and Copying Mode
+   - 'e' key: switch to Default Mode
+2. Default Mode
+   
+3. Freehand Drawing Mode
+   
+4. Region Selection and Copying Mode
