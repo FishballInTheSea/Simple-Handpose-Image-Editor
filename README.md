@@ -24,10 +24,13 @@ This program allows user to perform actions by switching to 3 different modes:
    - 'f' key: switch to Freehand Drawing Mode
    - 's' key: switch to Region Selection and Copying Mode
    - 'e' key: switch to Default Mode
+     
 2. Default Mode
    <br>Move your index finger and the corresponding positions of the detected fingertip on the camera display and the image will be indicated by a green dot
+
 3. Freehand Drawing Mode
    <br>Move your index finger and the drawing will be shown by magenta strokes
+
 4. Region Selection and Copying Mode
    <br>Move your index finger and thumb where a yellow box is displayed between the two fingertips (the detected region).
    <br>Press and release 'c' key to copy the region.
