@@ -5,8 +5,6 @@ As the name suggests, this has EXTREMELY limited features when compared to norma
 
 And it is actually an assignment from a bachelor-level HCI course ;) 
 
-~~(source code will be available later)~~
-
 # Features
 This program allows user to perform actions by switching to 3 different modes:
 1. Default Mode
