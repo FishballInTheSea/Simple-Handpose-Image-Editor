@@ -35,5 +35,5 @@ This program allows user to perform actions by switching to 3 different modes:
    <br>Press and release 'v' key to paste the copied region on the current detected region.
 
 # Links
-Fullscreen playable version: https://editor.p5js.org/FishballInTheSea/full/pjIeEl5Cu
+Fullscreen playable version: https://editor.p5js.org/FishballInTheSea/full/pjIeEl5Cu <br>
 p5.js editor: https://editor.p5js.org/FishballInTheSea/sketches/pjIeEl5Cu
