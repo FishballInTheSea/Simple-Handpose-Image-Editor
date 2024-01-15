@@ -36,3 +36,4 @@ This program allows user to perform actions by switching to 3 different modes:
 
 # Links
 Fullscreen playable version: https://editor.p5js.org/FishballInTheSea/full/pjIeEl5Cu
+p5.js editor: https://editor.p5js.org/FishballInTheSea/sketches/pjIeEl5Cu
